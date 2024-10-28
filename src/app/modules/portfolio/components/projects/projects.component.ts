@@ -24,7 +24,7 @@ export class ProjectsComponent {
 
     public arrayProjects = signal<IProjects[]>([
       {
-        src: "assets/img/projects/vfull.png",
+        src: "assets/img/projects/MeuSite.png",
         alt: "Projeto Meu Primeiro Site",
         title: "Meu Primeiro Site",
         width: "100px",
@@ -38,7 +38,7 @@ export class ProjectsComponent {
         ],
       },
       {
-        src: "assets/img/projects/vfull.png",
+        src: "assets/img/projects/Lojavirtual.png",
         alt: "Site Loja Virtual",
         title: "Site Loja Virtual",
         width: "100px",
@@ -52,7 +52,7 @@ export class ProjectsComponent {
         ],
       },
       {
-        src: "assets/img/projects/vfull.png",
+        src: "assets/img/projects/lista-de-tarefas.png",
         alt: "Lista de Tarefas",
         title: "Lista de Tarefas",
         width: "100px",
@@ -66,7 +66,7 @@ export class ProjectsComponent {
         ],
       },
       {
-        src: "assets/img/projects/vfull.png",
+        src: "assets/img/projects/moon.png",
         alt: "Dark-Theme",
         title: "Dark-Theme",
         width: "100px",
@@ -80,7 +80,7 @@ export class ProjectsComponent {
         ],
       },
       {
-        src: "assets/img/projects/vfull.png",
+        src: "assets/img/projects/Portfolio.png",
         alt: "Projeto Meu Portfólio",
         title: "Projeto Meu Portfólio",
         width: "100px",
