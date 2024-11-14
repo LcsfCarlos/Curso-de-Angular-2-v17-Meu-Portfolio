@@ -61,7 +61,7 @@ export class ProjectsComponent {
         links: [
           {
               name: "GH-Pages",
-              href: "https://lcsfcarlos.github.io/Curso-Angular-To-do-List/"
+              href: "https://lcsfcarlos.github.io/Projeto-Pratico-Lista-de-Tarefas--Curso-de-Angular-2-v17/"
           },
         ],
       },
